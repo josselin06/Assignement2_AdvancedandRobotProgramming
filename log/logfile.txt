@@ -1,0 +1,30 @@
+[14:36:01.312] [INIT] STARTING A NEW SIMULATION
+[14:36:01.312] [INIT] [INFO] Program is starting with pid 9939
+[14:36:01.312] [INIT] [INFO] Open a file to store the PID
+[14:36:01.312] [INIT] [INFO] Start launching all the programs
+[14:36:01.312] [INIT] [INFO] Program B launched
+[14:36:01.313] [INIT] [INFO] Program D launched
+[14:36:01.314] [INIT] [INFO] Program I launched
+[14:36:01.314] [D] [INFO] Program is starting with pid 9941
+[14:36:01.314] [INIT] [INFO] Program O launched
+[14:36:01.314] [INIT] [INFO] Program T launched
+[14:36:01.314] [INIT] [INFO] Program W launched
+[14:36:01.314] [INIT] [INFO] Have launched all the programs
+[14:36:01.315] [O] [INFO] Program is starting with pid 9943
+[14:36:01.315] [T] [INFO] Program is starting with pid 9944
+[14:36:01.318] [W] [INFO] Program is starting with pid 9945
+[14:36:01.319] [W] [INFO] Start watching all the programs
+[14:36:01.606] [I] [INFO] Program is starting with pid 9972
+[14:36:01.607] [B] [INFO] Program is starting with pid 9973
+[14:36:01.607] [D] [INFO] Start talking with Watchdog
+[14:36:01.607] [D] [INFO] Start calculating the dynamic parameters
+[14:36:01.607] [O] [INFO] Start talking with Watchdog
+[14:36:01.607] [O] [INFO] Start creating obstacles every 30 seconds
+[14:36:01.607] [T] [INFO] Start talking with Watchdog
+[14:36:01.607] [T] [INFO] Start creating targets every minutes
+[14:36:01.608] [I] [INFO] Start talking with Watchdog
+[14:36:01.608] [I] [INFO] Start reading the keyboard
+[14:36:01.608] [B] [INFO] Start talking with Watchdog
+[14:36:01.608] [B] [INFO] Start sharing the paramerts and printing the scene
+[14:36:06.802] [I] [INFO] Finish cleanly
+[14:36:06.803] [B] [INFO] Finish cleanly

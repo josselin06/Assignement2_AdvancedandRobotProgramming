@@ -1,0 +1,7 @@
+[INIT] start with pid 9939
+[B] start with pid 9940
+[D] start with pid 9941
+[I] start with pid 9942
+[O] start with pid 9943
+[T] start with pid 9944
+[W] start with pid 9945
